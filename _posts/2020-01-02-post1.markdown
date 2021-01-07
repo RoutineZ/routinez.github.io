@@ -21,4 +21,6 @@ print 'hello world'
 
 ![截屏]({{ https://github.com/RoutineZ/routinez.github.io }}/assets/1.jpg)
 
-![截屏]({{ site.url }}/assets/1.jpg)
+![截屏]({{ https://github.com/RoutineZ/routinez.github.io }}/assets/1.jpg
+
+
