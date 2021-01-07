@@ -16,3 +16,7 @@ print 'hello world'
 
 ![test image](./images/1609999846584.png)
 
+
+
+
+![截屏]({{ https://github.com/RoutineZ/routinez.github.io }}/assets/1.jpg)
