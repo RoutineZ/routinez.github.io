@@ -1,13 +1,13 @@
 ---
 layout: post
-title: github 搭建
+title: github page
 date: 2021-01-07 12:19:23 +0900
 category: sample
 ---
-# post-sample
-> Hello!
+# 图片插入
 
-This is code
+[图片插入](https://www.zhihu.com/question/31123165)
+
 ```ruby
 print 'hello world'
 ```
@@ -17,13 +17,7 @@ print 'hello world'
 ![test image](./images/1609999846584.png)
 
 
-
-
-![截屏]({{ https://github.com/RoutineZ/routinez.github.io }}/assets/1.jpg)
-
-
-
-![截屏]({{ https://github.com/RoutineZ/routinez.github.io }}/assets/1.jpg)
+“![有帮助的截图]({{ site.url }}/assets/screenshot.jpg)”
 
 
 
