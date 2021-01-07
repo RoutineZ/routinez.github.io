@@ -16,9 +16,9 @@ print 'hello world'
 
 ![test image](./images/1609999846584.png)
 
-
+```ruby
 “![有帮助的截图]({{ site.url }}/assets/screenshot.jpg)”
-
+```
 
 
 
