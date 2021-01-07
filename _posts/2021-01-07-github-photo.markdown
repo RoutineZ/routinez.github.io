@@ -19,6 +19,6 @@ print 'hello world'
 
 
 
-![截屏]({{ site.baseurl }}/assets/1.jpg)
+![截屏]({{ site.url }}/assets/1.jpg)
 
-![截屏]({{ site.baseurl }}/assets/1.jpg)
+![截屏]({{ site.url }}/assets/1.jpg)
