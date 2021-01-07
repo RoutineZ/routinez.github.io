@@ -11,4 +11,8 @@ This is code
 ```ruby
 print 'hello world'
 ```
-![enter description here](./images/1609996595574.png)
+![](images/1609996595574.png)
+
+
+![test image](./images/1609999846584.png)
+
