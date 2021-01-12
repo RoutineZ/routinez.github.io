@@ -1,6 +1,6 @@
 ---
 layout: post
-title: github 搭建
+title: Faster rcnn笔记
 date: 2021-01-07 12:19:23 +0900
 category: sample
 ---
