@@ -1,6 +1,6 @@
 ---
 layout: post
-title: github 图床
+title: yolo系列笔记
 date: 2021-01-07 12:19:23 +0900
 category: sample
 ---
