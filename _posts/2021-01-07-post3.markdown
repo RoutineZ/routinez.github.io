@@ -1,6 +1,6 @@
 ---
 layout: post
-title: yolo系列笔记
+title: 推荐网站
 date: 2021-01-07 12:19:23 +0900
 category: sample
 ---
@@ -11,10 +11,10 @@ This is code
 ```ruby
 print 'hello world'
 ```
-![](images/1609996595574.png)
+[论文代码网址](paperswithcode.com/)
 
 
-![test image](./images/1609999846584.png)
+[论文网址](https://arxiv.org/)
 
 
 
