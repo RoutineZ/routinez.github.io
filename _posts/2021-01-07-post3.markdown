@@ -5,13 +5,12 @@ date: 2021-01-07 12:19:23 +0900
 category: sample
 ---
 # post-sample
-> Hello!
 
-This is code
-```ruby
-print 'hello world'
-```
-[论文代码网址](paperswithcode.com/)
+
+
+[论文代码网址](https://paperswithcode.com/)
+
+
 
 
 [论文网址](https://arxiv.org/)
