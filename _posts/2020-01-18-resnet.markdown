@@ -4,4 +4,5 @@ resnet50中间有4个大卷积组，分别包含了3、4、6这3个Bottleneck模
 
 
 
-![image-20210118100936446](D:\zrt\blog\routinez.github.io\assets\image-20210118100936446.png)
+![image-20210118100936446]({{ site.url }}/assets/image-20210118100936446.png)
+
