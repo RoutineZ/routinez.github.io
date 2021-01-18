@@ -1,0 +1,7 @@
+Resnet网络结构
+
+resnet50中间有4个大卷积组，分别包含了3、4、6这3个Bottleneck模块。由于F(x)+x是逐通道进行相加，因此根据两者是否通道数相同，存在两种Bottleneck结构。对于通道数不同的情况，比如每个卷积组的第一个Bottlenek，需要利用1×1卷积对x进行Downsample操作，将通道数变为相同。
+
+
+
+![image-20210118100936446](D:\zrt\blog\routinez.github.io\assets\image-20210118100936446.png)
