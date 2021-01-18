@@ -1,16 +1,21 @@
 ---
 layout: post
-title: Faster rcnn笔记
+title: Resnet笔记
 date: 2021-01-07 12:19:23 +0900
 category: sample
 ---
 # post-sample
-> Hello!
 
-This is code
-```ruby
-print 'hello world'
-```
+
+Resnet-18和Resnet-34采用的是BasicBlock 残差块结构
+![basicblock]({{ site.url }}/assets/basicblock.jpg)
+
+
+resnet-50，resnet-101和resnet-152采用的是Bottleneck残差块结构
+
+![bottleneck]({{ site.url }}/assets/bottleneck.jpg)
+
+
 ![](images/1609996595574.png)
 
 
