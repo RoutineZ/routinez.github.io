@@ -4,7 +4,7 @@ title: Resnet笔记
 date: 2021-01-07 12:19:23 +0900
 category: sample
 ---
-# post-sample
+# resnet基础结构
 
 
 Resnet-18和Resnet-34采用的是BasicBlock 残差块结构
