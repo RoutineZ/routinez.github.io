@@ -17,14 +17,4 @@ resnet-50，resnet-101和resnet-152采用的是Bottleneck残差块结构
 ![bottleneck]({{ site.url }}/assets/bottleneck.jpg)
 
 
-![](images/1609996595574.png)
 
-
-![test image](./images/1609999846584.png)
-
-
-
-
-![截屏]({{ site.url }}/assets/1.jpg)
-
-![截屏]({{ site.url }}/assets/1.jpg)
