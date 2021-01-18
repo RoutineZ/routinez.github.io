@@ -8,6 +8,7 @@ category: sample
 
 
 Resnet-18和Resnet-34采用的是BasicBlock 残差块结构
+
 ![basicblock]({{ site.url }}/assets/basicblock.jpg)
 
 
