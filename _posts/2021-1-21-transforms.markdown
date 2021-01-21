@@ -1,3 +1,10 @@
+---
+layout: post
+title: pytorch中数据增广方法--transforms
+date: 2021-01-21 14:59:23 +0900
+category: sample
+---
+
 # transforms的方法
 
 ------
