@@ -23,7 +23,7 @@ ex: img_crop=transforms.RandomCrop(1024,960)(img)
 
 
 
-### 2.中心剪裁：transforms.CenterCrop
+###  2.中心剪裁：transforms.CenterCrop
 
 根据给定的size，从中心剪裁
 
@@ -33,7 +33,7 @@ ex:img_crop=transforms.CenterCrop(1024,960)(img)
 
 
 
-## 3.随机长宽比裁剪 transforms.RandomResizedCrop
+### 3.随机长宽比裁剪 transforms.RandomResizedCrop
 
 transforms.RandomResizedCrop(size, scale=(0.08, 1.0), ratio=(0.75, 1.3333333333333333), interpolation=2) 
 
