@@ -24,7 +24,7 @@ ex: img_crop=transforms.RandomCrop(1024,960)(img)
 ex:img_crop=transforms.CenterCrop(1024,960)(img)
 ```
 
-### 
+
 
 ## 3.随机长宽比裁剪 transforms.RandomResizedCrop
 
@@ -36,19 +36,21 @@ transforms.RandomResizedCrop(size, scale=(0.08, 1.0), ratio=(0.75, 1.33333333333
 
 ## 二、翻转和旋转——Flip and Rotation
 
-## 1.依概率p水平翻转transforms.RandomHorizontalFlip
+
+
+### 1.依概率p水平翻转transforms.RandomHorizontalFlip
 
 transforms.RandomHorizontalFlip(p=0.5) ，功能：依据概率p对PIL图片进行水平翻转 参数： p- 概率，默认值为0.5
 
 
 
-## 2.依概率p垂直翻转transforms.RandomVerticalFlip
+### 2.依概率p垂直翻转transforms.RandomVerticalFlip
 
 transforms.RandomVerticalFlip(p=0.5) 功能：依据概率p对PIL图片进行垂直翻转 参数： p- 概率，默认值为0.5
 
 
 
-## 3.随机旋转：transforms.RandomRotation
+### 3.随机旋转：transforms.RandomRotation
 
 transforms.RandomRotation(degrees, resample=False, expand=False, center=None)  
 
@@ -58,7 +60,7 @@ transforms.RandomRotation(degrees, resample=False, expand=False, center=None)
 
 ## 三、图像变换
 
-## 1.resize：transforms.Resize
+### 1.resize：transforms.Resize
 
 transforms.Resize(size, interpolation=2)
 
@@ -66,7 +68,7 @@ transforms.Resize(size, interpolation=2)
 
 
 
-## 2.标准化：transforms.Normalize
+### 2.标准化：transforms.Normalize
 
 transforms.Normalize(mean, std)
 
@@ -74,7 +76,7 @@ transforms.Normalize(mean, std)
 
 
 
-## 3.转为tensor：transforms.ToTensor
+### 3.转为tensor：transforms.ToTensor
 
 transforms.ToTensor   
 
