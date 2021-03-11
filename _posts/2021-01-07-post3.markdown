@@ -16,6 +16,9 @@ category: sample
 [论文网址](https://arxiv.org/)
 
 
+[Attention机制详解](https://zhuanlan.zhihu.com/p/47063917)
+
+
 
 
 ![截屏]({{ https://github.com/RoutineZ/routinez.github.io }}/assets/1.jpg)
