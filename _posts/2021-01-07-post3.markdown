@@ -28,3 +28,6 @@ category: sample
 ![截屏]({{ https://github.com/RoutineZ/routinez.github.io }}/assets/1.jpg)
 
 [anaconda离线环境迁移](https://blog.csdn.net/u013232219/article/details/114535937)
+
+
+[yolov3网络结构](https://blog.csdn.net/dz4543/article/details/90049377)
