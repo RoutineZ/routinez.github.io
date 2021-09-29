@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pytorch中数据增广方法--transforms
+title: pytorch使用记录
 date: 2021-01-21 14:59:23 +0900
 category: sample
 ---
@@ -88,3 +88,9 @@ transforms.Normalize(mean, std)
 transforms.ToTensor   
 
 功能：将PIL Image或者 ndarray 转换为tensor，并且归一化至[0-1] 注意事项：归一化至[0-1]是直接除以255，若自己的ndarray数据尺度有变化，则需要自行修改
+
+
+# nn.MSELoss损失函数
+
+[MSE原理](https://blog.csdn.net/zfhsfdhdfajhsr/article/details/115637954?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link)
+
